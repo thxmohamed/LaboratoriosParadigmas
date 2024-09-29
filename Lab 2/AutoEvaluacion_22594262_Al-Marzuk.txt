@@ -1,0 +1,80 @@
+Requerimientos funcionales
+
+RF1: Implementados todos los TDA, 1 punto
+
+RF2: TDA Option - Constructor
+Nombre predicado: option
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF3: TDA Flow - Constructor
+Nombre predicado: flow
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF4: TDA Flow - Modificador
+Nombre predicado: flowAddOption
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF5: TDA Chatbot - Constructor
+Nombre predicado: chatbot
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF6: TDA Chatbot- Modificador
+Nombre predicado: chatbotAddFlow
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF7: TDA System - Constructor
+Nombre predicado: system
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF8: TDA System - Modificador
+Nombre predicado: systemAddChatbot
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF9: TDA System - Modificador
+Nombre predicado: systemAddUser
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF10: TDA System - Modificador
+Nombre predicado: systemLogin
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF11: TDA System - Modificador
+Nombre predicado: systemLogout
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF12: TDA System - Modificador
+Nombre predicado: systemTalkRec
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF13: TDA System - Selector
+Nombre predicado: systemSynthesis
+Evaluación: Este predicado está implementado correctamente, funciona el
+100% de las veces. 1 punto.
+
+RF14: TDA System - Otros
+Nombre predicado: systemSimulate
+Evaluación: No implementada: 0 puntos
+
+
+
+Requerimientos no funcionales
+
+
+1) Autoevaluación realizada
+
+2) Programación en Prolog realizada
+
+3) Versión 9.1 de Dr. Racket utilizada
+
+4) Se utilizan solo las reglas de Prolog estándar, y reglas propias
+
+5) Los predicados están documentados, 1 punto
+
+6) Se estructura el código en archivos independientes para cada TDA y un main para los RF
+
+7) Realizados 15 commits en 16 días, haciendo uno diario. 2,5 puntos
+
+8) Realizados 2 scripts de pruebas para el código con 3 ejemplos de los predicados
+
+9) Se respetan los pre requisitos de las funcionalidades
+

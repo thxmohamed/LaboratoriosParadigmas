@@ -1,0 +1,2 @@
+Para poder ejecutar el programa, hay que abrir Intellij y compilar utilizando Gradle.
+Una vez compilado, se podrá interactuar con el chatbot a través del menú.

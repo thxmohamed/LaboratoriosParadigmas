@@ -1,0 +1,89 @@
+Requerimientos funcionales
+
+RF1: Implementados todos los TDA, 1 punto
+
+RF2: TDA Option - Constructor
+Nombre función: option
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF3: TDA Flow - Constructor
+Nombre función: flow
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF4: TDA Flow - Modificador
+Nombre función: flow-add-option
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF5: TDA Chatbot - Constructor
+Nombre función: chatbot
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF6: TDA Chatbot- Modificador
+Nombre función: chatbot-add-flow
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF7: TDA System - Constructor
+Nombre función: system
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF8: TDA System - Modificador
+Nombre función: system-add-chatbot
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+RF9: TDA System - Modificador
+Nombre función: system-add-user
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF10: TDA System - Modificador
+Nombre función: system-login
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF11: TDA System - Modificador
+Nombre función: system-logout
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+RF12: TDA System - Modificador
+Nombre función: system-talk-rec
+Evaluación: Implementada, agrega al historial la interacción entre el usuario 
+y el chatbot, solo le falta seguir los flujos correctamente. Está al 75%, por lo que 0,75 puntos
+
+RF13: TDA System - Modificador
+Nombre función: system-talk-norec
+Evaluación: Implementada pero no hace lo que debe hacer. Solo agrega al historial el mensaje 
+del usuario. Está al 25%, 0,25 puntos.
+
+RF14: TDA System - Selector
+Nombre función: system-synthesis
+Evaluación: Esta función está implementada correctamente, funciona el
+100% de las veces. 1 punto.
+
+RF15: TDA System - Otros
+Nombre función: system-simulate
+Evaluación: No implementada: 0 puntos
+
+
+
+Requerimientos no funcionales
+
+
+1) Autoevaluación realizada
+
+2) Programación en Racket realizada
+
+3) Versión 8.10 de Dr. Racket utilizada
+
+4) Se utilizan solo las funciones de Racket estándar
+
+5) No se utiliza set ni uso de variables
+
+6) Las funciones están documentadas, 1 punto
+
+7) Las funciones tienen bien definido el dominio y recorrido
+
+8) Cada TDA está en su archivo propio, y los RF en el main, 1 punto
+
+9) Realizados 16 commits en 16 días, haciendo uno diario. 2,5 puntos
+
+10) Realizados 3 scripts de pruebas para el código
+
+11) Se respetan los pre requisitos de las funciones
+

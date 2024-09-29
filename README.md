@@ -1,1 +1,1 @@
-# LaboratoriosParadigmas
+En este repositorio se encuentran todos los laboratorios que realicé de la asignatura Paradigmas de la Programación.

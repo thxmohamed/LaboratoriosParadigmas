@@ -1,0 +1,95 @@
+Requerimientos funcionales
+
+RF1: Implementados todos los TDA, en sus respectivas clases. Se implementan las clases usuario, mensaje, chathistory, opción, flujo, chatbot y sistema, 1 punto.
+
+RF2: Menú interactivo: fue implementado el menú, 1 punto.
+
+1) TDA Option - Constructor
+Nombre método: Option_22594262_AlMarzuk
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+2) TDA Flow - Constructor
+Nombre método: Flow _22594262_AlMarzuk
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+3) TDA Flow - Modificador
+Nombre método: flowAddOption
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+4) TDA Chatbot - Constructor
+Nombre método: Chatbot_22594262_AlMarzuk
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+5) TDA Chatbot- Modificador
+Nombre método: chatbotAddFlow
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+6) TDA User - Constructor
+Nombre método: User_22594262_AlMarzuk
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+7) TDA System - Constructor
+Nombre método: Sistem_22594262_AlMarzuk
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+8) TDA System - Modificador
+Nombre método: systemAddChatbot
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+9) TDA System - Modificador
+Nombre método: systemAddUser
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+10) TDA System - Modificador
+Nombre método: systemLogin
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+11) TDA System - Modificador
+Nombre método: systemLogout
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+12) TDA System - Modificador
+Nombre método: systemTalkRec
+Evaluación: Implementada, funciona el 100% de las veces, 1 punto
+
+13) TDA System - Selector
+Nombre método: systemSynthesis
+Evaluación: Este predicado está implementado correctamente, funciona el
+100% de las veces. 1 punto.
+
+14) TDA System - Otros
+Nombre método: systemSimulate
+Evaluación: No implementada: 0 puntos
+
+
+
+Requerimientos no funcionales
+
+
+1) Autoevaluación realizada
+
+2) Programación en Java realizada
+
+3) Utilizado JDK 11 e Intellij. Compilado en Gradle
+
+4) Se utilizan solo las clases estándar de Java
+
+5) Menú implementado
+
+6) Paradigma utilizado correctamente
+
+7) Se respetan los pre requisitos de las funcionalidades
+
+8) Documentación realizada de forma correcta 1 punto
+ 
+9) El código fue separado en archivos distintos 1 punto
+
+10) Se realizó el diagrama de análisis 1 punto
+
+11) Se realizó el diagrama UML 1 punto
+
+12) Realizados 11 commits en 16 días, haciendo uno diario. 1 punto
+
+
+
+
